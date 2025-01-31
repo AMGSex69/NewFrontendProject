@@ -1,0 +1,298 @@
+{
+	"About": "关于我",
+	"Support": "支持",
+	"Other": "其他",
+	"Theme": "主题",
+	"An": "一个",
+	"Booster": "助推器",
+	"to_Your_NextJS_Apps": "为您的NextJS应用",
+	"An_approachable_performant_and_versatile_boilerplate_for_building_SSR_applications": "一个易于使用、高性能且多功能的用于构建SSR应用程序的样板。",
+	"Use_Template": "使用模板",
+	"Learn_More": "了解更多！",
+	"Approachable": "易于使用",
+	"Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features": "无需发送额外的客户端JavaScript即可添加组件。基于最新的React功能构建。",
+	"Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals": "自动优化图像、字体和脚本，以改善用户体验和核心Web指标。",
+	"Versatile": "多功能",
+	"A_rich_incredibly_adoptable_template_that_scales_between_a_small_showcase_website_and_a_full_size_app": "一个丰富、极易采用的模板，可以在小型展示网站和全尺寸应用程序之间进行扩展。",
+	"This_is_a_simple_about_page_just_to_show_how_you_can_use_the_internationalization_in_different_pages": "这是一个简单的关于页面，仅用于展示如何在不同页面中使用国际化",
+	"Performant": "高性能",
+	"Profile": "个人资料",
+	"Consultation": "咨询",
+	"Education": "摘要和教育",
+	"Retreat": "瑜伽静修",
+	"Review": "评论",
+	"Contacts": "联系方式",
+	"SignUpFor": "注册",
+	"FreeConsultation": "免费咨询",
+	"Everything_is_recorded_But_when_God_allows_a_person_to_change_something_in_his_destiny_he_brings_him_to_an_astrologer": "「一切都已被记录。但当上帝允许一个人改变他命运中的某些事情时，他会把他带到占星师那里」",
+	"Paulo_Coelho_The_Alchemist": "保罗·柯艾略《炼金术士》",
+	"services": {
+		"title": "我的服务",
+		"karma": {
+			"title": "业力",
+			"description": "业力星盘",
+			"price": "5,000₽ | $55",
+			"button": "了解更多"
+		},
+		"items": [
+			{
+				"title": "占星咨询",
+				"price": "从3,000₽ | $35起"
+			},
+			{
+				"title": "商业咨询。金钱",
+				"price": "5,000₽ | $55"
+			},
+			{
+				"title": "一年占星预测。太阳回归",
+				"price": "10,000₽ | $110"
+			},
+			{
+				"title": "兼容性星盘",
+				"price": "8,000₽ | $90"
+			},
+			{
+				"title": "儿童占星",
+				"price": "5,000₽ | $55"
+			},
+			{
+				"title": "职业指导。选择职业",
+				"price": "5,000₽ | $55"
+			},
+			{
+				"title": "搬迁和移民星盘",
+				"price": "8,000₽ | $90"
+			},
+			{
+				"title": "重要日期选择",
+				"price": "5,000₽ | $55"
+			},
+			{
+				"title": "医疗占星",
+				"price": "10,000₽ | $110"
+			},
+			{
+				"title": "宝石占星。宝石的魔力",
+				"price": "10,000₽ | $110"
+			},
+			{
+				"title": "校正。精确出生时间",
+				"price": "从3,000₽ | $35起"
+			},
+			{
+				"title": "本命盘",
+				"price": "从8,000₽ | $90起"
+			},
+			{
+				"title": "矫正占星",
+				"price": "从8,000₽ | $90起"
+			},
+			{
+				"title": "年度支持",
+				"price": "从40,000₽ | $440起"
+			},
+			{
+				"title": "占星日历/日记",
+				"price": "从1,250₽ | $15起"
+			}
+		]
+	},
+	"aboutMe": {
+		"greeting": "问候",
+		"hello": "朋友们好！",
+		"introduction": "我是Oksana Yurlova，一位有经验的实践占星师，擅长解决各种客户需求。我已经咨询超过5年。我毕业于Elena Negrey的西方占星专业学校。我还在Konstantin Daragan的课程中学习。我经常旅行，已经去过56个国家。",
+		"certificatesTitle": "教育部认证的证书",
+		"helpTitle": "我的咨询如何帮助您：",
+		"helpItems": [
+			"作为雇员工作，想要自己的事业；",
+			"选择注册业务的日期；",
+			"今年的重大事件，年度预测；",
+			"孩子的职业；",
+			"移民，想要搬家；",
+			"孩子不说话，为什么；",
+			"想要离婚/或如何挽救婚姻；",
+			"在哪里寻找我的爱情；",
+			"没有孩子/但想要；",
+			"想要分析我的妻子/丈夫/朋友/孩子/老板；",
+			"我与另一个人的兼容性；",
+			"在哪里发展孩子：课外活动/俱乐部；",
+			"哪一天最适合我的约会/结婚/购车/购房/度假/搬家；",
+			"理解夫妻之间的性和心理互动；",
+			"财务，预测收入/损失；",
+			"房地产交易（租赁/出租/购买）。"
+		]
+	},
+	"title": "业力星盘 - 自我实现的时刻",
+	"features": {
+		"past": "✓ 描述过去的业力经验，您的知识积累；",
+		"talents": "✓ 来自祖先的天赋；",
+		"abilities": "✓ 您出生时带来的某些能力，以及从前世带来的能力。"
+	},
+	"karmaDescription": {
+		"path": "业力是在这一世必须遵循的道路。",
+		"warning": "如果您不在正确的道路上，宇宙会在生命的某些时期给您警告，然后损失就会到来。",
+		"development": "为了在这一世完成业力任务，一个人必须朝着正确的方向发展。"
+	},
+	"price": "价格：5,000₽",
+	"format": {
+		"label": "形式：",
+		"description": "咨询以视频形式进行，通过实时交流（Skype、Telegram、WhatsApp、Zoom等 + astrobook（关键点的打印摘要）+ 视频咨询）。"
+	},
+	"requiredData": {
+		"title": "咨询所需数据：",
+		"date": "✓ 出生年、月和日；",
+		"city": "✓ 城市；",
+		"time": "✓ 出生时间（从标签或母亲所说，如果没有准确的出生时间，我们会进行校正）。"
+	},
+	"order": "订购",
+	"giftCertificate": "礼品证书",
+	"BlockRow": {
+		"buy": "购买"
+	},
+	"astrologerConspects": {
+		"title": "占星师笔记",
+		"benefits": {
+			"1": "拥有所有占星师的笔记，您可以轻松开始理解自己的星图和亲人的星图。",
+			"2": "没有废话，只有最重要的、经过多年工作收集的结构化信息。",
+			"3": "您可以进行个人咨询，我将教您如何使用笔记、模板，阅读您的本命图。"
+		},
+		"price": "一个笔记块的价格：",
+		"blocks": {
+			"1": {
+				"title": "第一块",
+				"description": [
+					"星座、行星、元素、宫位、",
+					"升降、陷落、流放、十字"
+				]
+			},
+			"2": {
+				"title": "第二块",
+				"description": [
+					"主要相位、轴心行星、逆行行星"
+				]
+			},
+			"3": {
+				"title": "第三块",
+				"description": [
+					"星盘宫位、宫位主宰"
+				]
+			},
+			"4": {
+				"title": "第四块",
+				"description": [
+					"推运、小限、行运、太阳返照"
+				]
+			},
+			"5": {
+				"title": "第五块",
+				"description": [
+					"月相、月食、日食"
+				]
+			},
+			"6": {
+				"title": "第六块",
+				"description": [
+					"合盘、图表比较、合盘相位"
+				]
+			},
+			"7": {
+				"title": "第七块",
+				"description": [
+					"性学、组合盘、组合盘小限"
+				]
+			},
+			"8": {
+				"title": "第八块",
+				"description": [
+					"业力占星学、业力相位"
+				]
+			},
+			"9": {
+				"title": "第九块",
+				"description": [
+					"心理占星学、心理学相位"
+				]
+			},
+			"10": {
+				"title": "第十块",
+				"description": [
+					"医疗占星学、健康、健康相位"
+				]
+			},
+			"11": {
+				"title": "第十一块",
+				"description": [
+					"财务占星学、财务相位"
+				]
+			},
+			"12": {
+				"title": "第十二块",
+				"description": [
+					"秘传占星学、灵性相位"
+				]
+			}
+		}
+	},
+	"AstroYogaSection": {
+		"title": "瑜伽静修",
+		"subtitle": "个人静修之旅",
+		"description": "如果您想停下来重新启动，改善您的心理和精神状态，寻找答案，深入研究，只是放松，在大师的指导下使用精神实践进行深度自我分析 - 加入我们。",
+		"mainGoal": {
+			"title": "主要目标：",
+			"description": "通过深度自我分析净化意识和身体，从而实现精神、心理和身体的恢复。"
+		},
+		"features": {
+			"0": "力量之地（远离社会）；",
+			"1": "瑜伽；",
+			"2": "冥想；",
+			"3": "神经图形学；",
+			"4": "西方占星术；",
+			"5": "素食；",
+			"6": "偏远地点；",
+			"7": "健康生活方式；",
+			"8": "实践；",
+			"9": "岛屿之旅；",
+			"10": "参观寺庙和自然保护区；",
+			"11": "气功；",
+			"12": "每个人都选择自己的目标和静修类型（精神、创意、生物黑客）。"
+		},
+		"checkInDates": "在您方便的日期入住！！！",
+		"learnMore": "了解更多"
+	},
+	"RetreatPrices": {
+		"sriLanka": {
+			"name": "「斯里兰卡重启之旅」",
+			"price": "170,000 ₽",
+			"included": "（全包）"
+		},
+		"india": {
+			"name": "「印度」",
+			"price": "70,000 ₽",
+			"additional": "+ 机票和签证"
+		},
+		"abkhazia": {
+			"name": "「阿布哈兹」",
+			"price": "70,000 ₽",
+			"additional": "+ 机票和签证"
+		}
+	},
+	"retreatPrices": {
+		"programButton": "静修计划",
+		"price": "价格",
+		"duration": "时长"
+	},
+	"footer": {
+		"name": "阿克萨娜·尤尔洛娃",
+		"title": "您的占星师"
+	},
+	"menu": "菜单",
+	"home": "主页",
+	"consultations": "咨询",
+	"notes": "笔记",
+	"yogaRetreats": "瑜伽静修",
+	"reviews": "评论",
+	"contacts": "联系方式",
+	"telegram": "电报",
+	"youtube": "油管",
+	"instagram": "Instagram"
+}

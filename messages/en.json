@@ -1,0 +1,298 @@
+{
+	"About": "About me",
+	"Support": "Support",
+	"Other": "Other",
+	"Theme": "Theme",
+	"An": "A",
+	"Booster": "Booster",
+	"to_Your_NextJS_Apps": "to Your NextJS Apps",
+	"An_approachable_performant_and_versatile_boilerplate_for_building_SSR_applications": "An approachable, performant and versatile boilerplate for building SSR applications.",
+	"Use_Template": "Use Template",
+	"Learn_More": "Learn More!",
+	"Approachable": "Approachable",
+	"Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features": "Add components without sending additional client-side JavaScript. Built on the latest React features.",
+	"Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals": "Automatic Image, Font, and Script Optimizations for improved UX and Core Web Vitals.",
+	"Versatile": "Versatile",
+	"A_rich_incredibly_adoptable_template_that_scales_between_a_small_showcase_website_and_a_full_size_app": "A rich, incredibly adoptable template that scales between a small showcase website and a full-size app.",
+	"This_is_a_simple_about_page_just_to_show_how_you_can_use_the_internationalization_in_different_pages": "This is a simple about page just to show how you can use the internationalization in different pages",
+	"Performant": "Performant",
+	"Profile": "Personal profile",
+	"Consultation": "Consultations",
+	"Education": "Abstract and Education",
+	"Retreat": "Yoga-retreats",
+	"Review": "Reviews",
+	"Contacts": "Contacts",
+	"SignUpFor": "Sign up for ",
+	"FreeConsultation": "Free consultation",
+	"Everything_is_recorded_But_when_God_allows_a_person_to_change_something_in_his_destiny_he_brings_him_to_an_astrologer": "«Everything is recorded. But when God allows a person to change something in his destiny, he brings him to an astrologer».",
+	"Paulo_Coelho_The_Alchemist": "Paulo Coelho «The Alchemist»",
+	"services": {
+		"title": "My Services",
+		"karma": {
+			"title": "KARMA",
+			"description": "Karmic horoscope",
+			"price": "5,000₽ | $55",
+			"button": "Learn more"
+		},
+		"items": [
+			{
+				"title": "Astrological consultation",
+				"price": "from 3,000₽ | $35"
+			},
+			{
+				"title": "Business consultation. Money",
+				"price": "5,000₽ | $55"
+			},
+			{
+				"title": "Astrological forecast for 1 year. Solar",
+				"price": "10,000₽ | $110"
+			},
+			{
+				"title": "Compatibility horoscope",
+				"price": "8,000₽ | $90"
+			},
+			{
+				"title": "Child astrology",
+				"price": "5,000₽ | $55"
+			},
+			{
+				"title": "Career guidance. Choosing a profession",
+				"price": "5,000₽ | $55"
+			},
+			{
+				"title": "Relocation and immigration horoscope",
+				"price": "8,000₽ | $90"
+			},
+			{
+				"title": "Important date selection",
+				"price": "5,000₽ | $55"
+			},
+			{
+				"title": "Medical astrology",
+				"price": "10,000₽ | $110"
+			},
+			{
+				"title": "Gem astrology. Magical power of stones",
+				"price": "10,000₽ | $110"
+			},
+			{
+				"title": "Rectification. Exact time of birth",
+				"price": "from 3,000₽ | $35"
+			},
+			{
+				"title": "Natal chart",
+				"price": "from 8,000₽ | $90"
+			},
+			{
+				"title": "Correctional astrology",
+				"price": "from 8,000₽ | $90"
+			},
+			{
+				"title": "Annual support",
+				"price": "from 40,000₽ | $440"
+			},
+			{
+				"title": "Astrological calendar / diary",
+				"price": "from 1,250₽ | $15"
+			}
+		]
+	},
+	"aboutMe": {
+		"greeting": "Greeting",
+		"hello": "Hello, friends!",
+		"introduction": "I'm Oksana Yurlova, a practicing astrologer with experience in solving various client requests. I've been consulting for over 5 years. I graduated from Elena Negrey's Professional School of Western Astrology. I studied at Konstantin Daragan's courses. I travel a lot, having visited 56 countries.",
+		"certificatesTitle": "Certificates confirmed by license from the Ministry of Education",
+		"helpTitle": "How my consultations can help you:",
+		"helpItems": [
+			"Working as an employee, want my own business;",
+			"Selecting a date for business registration;",
+			"Bright events this year, forecast for the year;",
+			"Profession for a child;",
+			"Immigration, want to move;",
+			"Child doesn't speak, why;",
+			"Want a divorce/or how to save my marriage;",
+			"Where to look for my love;",
+			"No children/but want them;",
+			"Want an analysis of my wife/husband/friend/child/boss;",
+			"My compatibility with another person;",
+			"Where to develop a child: sections/clubs;",
+			"What's the best day for my date/marriage/car purchase/apartment/vacation/move;",
+			"Understanding sexual, psychological interaction in a couple;",
+			"Finances, income/loss of money in prognostics;",
+			"Real estate transactions (renting/leasing/buying)."
+		]
+	},
+	"title": "Karmic Horoscope - Time for Self-Realization",
+	"features": {
+		"past": "✓ Description of past karmic experience, your knowledge baggage;",
+		"talents": "✓ Talents from ancestors;",
+		"abilities": "✓ Certain abilities you were born with and brought from previous incarnations."
+	},
+	"karmaDescription": {
+		"path": "Karma is the path that must be followed in this incarnation.",
+		"warning": "If you are not on the right path, you receive a warning from the Universe at certain periods of life, and then losses come.",
+		"development": "To work out the karmic task in this incarnation, a person must necessarily develop in the right direction."
+	},
+	"price": "Price: 5,000₽",
+	"format": {
+		"label": "Format:",
+		"description": "consultations are held in video format, with live communication (Skype, Telegram, WhatsApp, Zoom, etc. + astrobook (printed summary of key points) + video consultations)."
+	},
+	"requiredData": {
+		"title": "Data required for consultation:",
+		"date": "✓ Year, month and date of birth;",
+		"city": "✓ City;",
+		"time": "✓ Time of birth from the tag or as told by mother (if there is no exact time of birth, we do rectification)."
+	},
+	"order": "ORDER",
+	"giftCertificate": "GIFT CERTIFICATE",
+	"BlockRow": {
+		"buy": "BUY"
+	},
+	"astrologerConspects": {
+		"title": "Astrologer's Conspects",
+		"benefits": {
+			"1": "Having all the astrologer's conspects, you can easily start understanding your charts and the charts of your loved ones.",
+			"2": "No fluff, only the most important, structured information collected over many years of work.",
+			"3": "You can take a personal consultation and I will teach you how to work with conspects, templates, read your natal chart."
+		},
+		"price": "The cost of one block of conspects:",
+		"blocks": {
+			"1": {
+				"title": "Block I.",
+				"description": [
+					"Zodiac signs, planets, elements, domiciles, ",
+					"exaltations, falls, exiles, crosses"
+				]
+			},
+			"2": {
+				"title": "Block II.",
+				"description": [
+					"Major aspects, planets in the shaft, retro planets"
+				]
+			},
+			"3": {
+				"title": "Block III.",
+				"description": [
+					"Houses of the horoscope, rulers of houses"
+				]
+			},
+			"4": {
+				"title": "Block IV.",
+				"description": [
+					"Progressions, directions, transits, solar return"
+				]
+			},
+			"5": {
+				"title": "Block V.",
+				"description": [
+					"Moon phases, lunar eclipses, solar eclipses"
+				]
+			},
+			"6": {
+				"title": "Block VI.",
+				"description": [
+					"Synastry, chart comparison, aspects in synastry"
+				]
+			},
+			"7": {
+				"title": "Block VII.",
+				"description": [
+					"Sexpertise, composite, directions in composites"
+				]
+			},
+			"8": {
+				"title": "Block VIII.",
+				"description": [
+					"Karmic astrology, aspects of karma"
+				]
+			},
+			"9": {
+				"title": "Block IX.",
+				"description": [
+					"Psychological astrology, aspects in psychology"
+				]
+			},
+			"10": {
+				"title": "Block X.",
+				"description": [
+					"Medical astrology, health, aspects of health"
+				]
+			},
+			"11": {
+				"title": "Block XI.",
+				"description": [
+					"Financial astrology, aspects of finance"
+				]
+			},
+			"12": {
+				"title": "Block XII.",
+				"description": [
+					"Esoteric astrology, aspects of spirituality"
+				]
+			}
+		}
+	},
+	"AstroYogaSection": {
+		"title": "Yoga Retreats",
+		"subtitle": "Individual Retreat Tour",
+		"description": "If you want to stop and reboot, improve your mental and spiritual state, find answers, go into study, just relax, do a deep self-analysis under the guidance of masters using spiritual practices - join US.",
+		"mainGoal": {
+			"title": "Main goal:",
+			"description": "to cleanse consciousness, physical body, through deep self-analysis, which leads to spiritual, mental and physical recovery."
+		},
+		"features": {
+			"0": "Place of power (away from society);",
+			"1": "Yoga;",
+			"2": "Meditations;",
+			"3": "Neurographics;",
+			"4": "Western astrology;",
+			"5": "Vegetarian food;",
+			"6": "Remote location;",
+			"7": "Healthy lifestyle;",
+			"8": "Practices;",
+			"9": "Island tour;",
+			"10": "Visiting temples and reserves;",
+			"11": "Qigong;",
+			"12": "Everyone chooses their own goal and type of retreat (spiritual, creative, biohacking)."
+		},
+		"checkInDates": "Check-in on dates convenient for you!!!",
+		"learnMore": "Learn More"
+	},
+	"RetreatPrices": {
+		"sriLanka": {
+			"name": "\"Reboot in Sri Lanka\"",
+			"price": "170,000 ₽",
+			"included": "(all inclusive)"
+		},
+		"india": {
+			"name": "\"India\"",
+			"price": "70,000 ₽",
+			"additional": "+ airfare and visa"
+		},
+		"abkhazia": {
+			"name": "\"Abkhazia\"",
+			"price": "70,000 ₽",
+			"additional": "+ airfare and visa"
+		}
+	},
+	"retreatPrices": {
+		"programButton": "Retreat Program",
+		"price": "Price",
+		"duration": "Duration"
+	},
+	"footer": {
+		"name": "AKSANA YURLOVA",
+		"title": "YOUR ASTROLOGIST"
+	},
+	"menu": "Menu",
+	"home": "Home",
+	"consultations": "Consultations",
+	"notes": "Notes",
+	"yogaRetreats": "Yoga Retreats",
+	"reviews": "Reviews",
+	"contacts": "Contacts",
+	"telegram": "Telegram",
+	"youtube": "YouTube",
+	"instagram": "Instagram"
+}
